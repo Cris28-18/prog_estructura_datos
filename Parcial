@@ -1,0 +1,11 @@
+#ejercicio 2
+print("Ingrese su nombre completo: ")
+x = input()
+print("Su nombre es: " , x)
+
+#ejercicio 3
+print("ingrese un número: ")
+x = input()
+print("ingrese otro número: ")
+y = input()
+print("la suma de los números es: " , int(x) + int(y))
